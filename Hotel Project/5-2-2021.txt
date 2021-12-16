@@ -1,0 +1,36 @@
+----------------------------------------------------------------------------------------------------------------------------------------------
+Standard Rooms, Courtyard - 64 room(s) left | 6 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Alfonso Smith | Room Type: Courtyard | Room #: 1 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:10 (9:10 PM)
+    Customer Name: America Griffin | Room Type: Courtyard | Room #: 2 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:10 (9:10 PM)
+    Customer Name: Jorden Callahan | Room Type: Courtyard | Room #: 3 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:10 (9:10 PM)
+    Customer Name: Jaydin Barber | Room Type: Courtyard | Room #: 4 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+    Customer Name: Axel Stanley | Room Type: Courtyard | Room #: 5 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+    Customer Name: 1 | Room Type: Courtyard | Room #: 6 | Price: $125 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Standard Room, Scenic - 33 room(s) left | 2 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Compton | Room Type: Scenic | Room #: 71 | Price: $145 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+    Customer Name: Reese Banks | Room Type: Scenic | Room #: 72 | Price: $145 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Deluxe Suite - 12 room(s) left | 3 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Matilda Mccall | Room Type: Deluxe Suite | Room #: 106 | Price: $350 | Date/Time Room Reserved: 5/2/2021 | Time: 21:10 (9:10 PM)
+    Customer Name: Parker Walker | Room Type: Deluxe Suite | Room #: 107 | Price: $350 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+    Customer Name: Denisse Davies | Room Type: Deluxe Suite | Room #: 108 | Price: $350 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Penthouse - 1 room(s) left | 1 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Jayce Sullivan | Room Type: Penthouse | Room #: 121 | Price: $1135 | Date/Time Room Reserved: 5/2/2021 | Time: 21:11 (9:11 PM)
+
+Total room(s) reserved: 12
+Total room(s) not reserved: 110
+
+Revenue generated for the day: $3225

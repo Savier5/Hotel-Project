@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------------------------------------------------------
+Standard Rooms, Courtyard - 59 room(s) left | 11 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Lee Hanson | Room Type: Courtyard | Room #: 1 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:49 (8:49 PM)
+    Customer Name: Jax Ferrell | Room Type: Courtyard | Room #: 2 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:50 (8:50 PM)
+    Customer Name: Raquel Kline | Room Type: Courtyard | Room #: 3 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:50 (8:50 PM)
+    Customer Name: Andrew Adams | Room Type: Courtyard | Room #: 4 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+    Customer Name: Camron Spence | Room Type: Courtyard | Room #: 5 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+    Customer Name: Efrain Hoffman | Room Type: Courtyard | Room #: 6 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+    Customer Name: Austin Pace | Room Type: Courtyard | Room #: 7 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+    Customer Name: Wilson Lowe | Room Type: Courtyard | Room #: 8 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:52 (8:52 PM)
+    Customer Name: Denzel Wiggins | Room Type: Courtyard | Room #: 9 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:52 (8:52 PM)
+    Customer Name: Abdiel Lowe | Room Type: Courtyard | Room #: 10 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:52 (8:52 PM)
+    Customer Name: Jovanni Petty | Room Type: Courtyard | Room #: 11 | Price: $125 | Date/Time Room Reserved: 4/30/2021 | Time: 20:52 (8:52 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Standard Room, Scenic - 33 room(s) left | 2 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Zaid Christian | Room Type: Scenic | Room #: 71 | Price: $145 | Date/Time Room Reserved: 4/30/2021 | Time: 20:50 (8:50 PM)
+    Customer Name: Abbigail Morales | Room Type: Scenic | Room #: 72 | Price: $145 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Deluxe Suite - 10 room(s) left | 5 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Luna Fletcher | Room Type: Deluxe Suite | Room #: 106 | Price: $350 | Date/Time Room Reserved: 4/30/2021 | Time: 20:49 (8:49 PM)
+    Customer Name: Yoselin Barton | Room Type: Deluxe Suite | Room #: 107 | Price: $350 | Date/Time Room Reserved: 4/30/2021 | Time: 20:49 (8:49 PM)
+    Customer Name: Bronson Gomez | Room Type: Deluxe Suite | Room #: 108 | Price: $350 | Date/Time Room Reserved: 4/30/2021 | Time: 20:50 (8:50 PM)
+    Customer Name: Donovan Pierce | Room Type: Deluxe Suite | Room #: 109 | Price: $350 | Date/Time Room Reserved: 4/30/2021 | Time: 20:51 (8:51 PM)
+    Customer Name: Memphis Rosales | Room Type: Deluxe Suite | Room #: 110 | Price: $350 | Date/Time Room Reserved: 4/30/2021 | Time: 20:52 (8:52 PM)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Penthouse - 0 room(s) left | 2 room(s) used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+    Customer Name: Isabel Cunningham | Room Type: Penthouse | Room #: 121 | Price: $1135 | Date/Time Room Reserved: 4/30/2021 | Time: 20:48 (8:48 PM)
+    Customer Name: Trent Robbins | Room Type: Penthouse | Room #: 122 | Price: $1135 | Date/Time Room Reserved: 4/30/2021 | Time: 20:49 (8:49 PM)
+
+Total room(s) reserved: 20
+Total room(s) not reserved: 102
+
+Revenue generated for the day: $5685
